@@ -7,4 +7,8 @@ def main(a):
         bool
     """
     # Kodni shu yerga yozing
-    return
+    if a < 0:
+        return False
+    b = int(a**0.5)
+    
+    return b * b == a 

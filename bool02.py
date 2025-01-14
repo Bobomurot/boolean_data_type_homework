@@ -7,4 +7,4 @@ def main(a):
         bool
     """
     # Kodni shu yerga yozing
-    return
+    return a == 7

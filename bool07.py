@@ -8,4 +8,4 @@ def main(a, b):
         bool
     """
     # Kodni shu yerga yozing
-    return
+    return a != b
